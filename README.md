@@ -86,4 +86,4 @@ react-native上手不难，熟悉react，看react-native文档，看下开源项
 
 #### License
 
-[MIT License](http://opensource.org/licenses/mit-license.html).
+MIT License.
