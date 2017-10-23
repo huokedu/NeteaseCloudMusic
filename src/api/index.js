@@ -1,8 +1,7 @@
 /**
  * Created by 叶子 on 2017/9/22.
  */
-const BASE_URL = 'http://171.221.246.160:8084/music';
-// const BASE_URL = 'http://192.168.3.69:3000';
+// const BASE_URL = 'http://ip:3000';
 
 // 推荐音乐
 export const PERSONALIZED = BASE_URL + '/personalized';

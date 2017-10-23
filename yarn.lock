@@ -3275,12 +3275,6 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-react-native-blur@^3.2.0:
-  version "3.2.0"
-  resolved "http://registry.npm.taobao.org/react-native-blur/download/react-native-blur-3.2.0.tgz#7a27d66c995e994611041a191b94ec290a7d99fb"
-  dependencies:
-    prop-types "^15.5.10"
-
 react-native-dismiss-keyboard@1.0.0:
   version "1.0.0"
   resolved "http://registry.npm.taobao.org/react-native-dismiss-keyboard/download/react-native-dismiss-keyboard-1.0.0.tgz#32886242b3f2317e121f3aeb9b0a585e2b879b49"

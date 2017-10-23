@@ -11,7 +11,7 @@ import { View, StyleSheet, SectionList, FlatList, ScrollView, Animated, Text, Im
 import { screen, color } from '../utils';
 import { PageHeader, TextTool, MenuRow, ListSectionHeader, Spin } from '../widgets';
 import Icon from 'react-native-vector-icons/Ionicons';
-import { BlurView } from 'react-native-blur';
+// import { BlurView } from 'react-native-blur';
 import { DJ_PROGRAM } from '../api';
 
 const { Normal, Tip, H4, H3 } = TextTool;
